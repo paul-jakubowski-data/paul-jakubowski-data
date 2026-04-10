@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Paul Jakubowski
 
-<!--
-**paul-jakubowski-data/paul-jakubowski-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analytics Leader specializing in data platforms, governance, and scalable analytics systems.
 
-Here are some ideas to get you started:
+## 🔧 What I focus on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Designing metadata-driven data platforms
+* Building scalable data pipelines and models
+* Data governance, validation, and lineage
+* Translating business needs into technical solutions
+
+## 🚀 Current focus
+
+* Building a portfolio data platform project using Python and Microsoft Fabric concepts
+* Exploring AI-assisted development workflows
+
+## 🛠️ Tech stack
+
+* Python, SQL
+* Microsoft Fabric, Azure
+* Power BI
+* Data modeling & pipeline orchestration
+
+## 📫 Connect with me
+
+* LinkedIn: https://linkedin.com/in/pauljakubowski
