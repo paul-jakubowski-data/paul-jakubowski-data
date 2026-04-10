@@ -2,6 +2,9 @@
 
 Data Analytics Leader specializing in data platforms, governance, and scalable analytics systems.
 
+## 📌 Featured Projects
+- (Coming soon) Metadata-driven data platform simulation
+
 ## 🔧 What I focus on
 
 * Designing metadata-driven data platforms
