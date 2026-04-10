@@ -3,7 +3,11 @@
 Data Analytics Leader specializing in data platforms, governance, and scalable analytics systems.
 
 ## 📌 Featured Projects
-- (Coming soon) Metadata-driven data platform simulation
+
+### Metadata-Driven Data Platform
+Python-based data platform simulation demonstrating config-driven pipelines, rule-based validation, metadata generation, lineage tracking, and structured logging.
+
+👉 [View the Project on GitHub](https://github.com/paul-jakubowski-data/metadata-driven-data-platform)
 
 ## 🔧 What I focus on
 
